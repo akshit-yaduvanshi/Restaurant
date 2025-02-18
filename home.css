@@ -1,0 +1,157 @@
+body{
+    background-color: rgb(246, 246, 203);
+}
+header{
+    background-color: rgb(111, 120, 129);
+    height: 20vh;
+    width: 100vw;
+}
+.header1 ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.header1 li{
+    margin-right: 4%;
+    margin-top: 5%;
+    font-size: 150%;
+}
+.header2 h1{
+    margin-top: 20%;
+}
+header a{
+    text-decoration: none;
+    color: white;
+}
+header a:hover{
+    text-decoration: underline;
+}
+.img img{
+    width: 100vw;
+}
+.contact1{
+    justify-content: space-between;
+    min-height: 50vh;
+}
+
+.address ul{
+    list-style: none;
+}
+.hours ul{
+    list-style: none;
+}
+.contact ul{
+    list-style: none;
+}
+.address{
+    float: left;
+    margin-left: 10%;
+    margin-top: 20%;
+}
+.hours{
+    float: left;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+.contact{
+    float: left;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+#about{
+    margin-top: 50%;
+}
+.img2{
+    float: left;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.about1 h3{
+    font-size: 200%;
+}
+.about1 p{
+    font-size: 120%;
+    font-style: monospace;
+    opacity: 0.5;
+}
+
+.happenings1 h4{
+    margin-top: 30%;
+    text-align: center;
+    font-size: 200%;
+}
+.img3 img{
+    height: 55vh;
+    width: 50vw;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.happenings1 h5{
+    margin-left: 68%;
+    margin-top: -20%;
+    font-size: 200%;
+}
+.happenings p{
+    margin-left: 65%;
+    font-size: 120%;
+    opacity: 0.5;
+}
+
+footer{
+    height: 50vh;
+     color: black;
+     background-color: bisque;
+     margin-top: 30%;
+ }
+ .footer li{
+     display: flex;
+     list-style: none;
+     margin-left: 5%;
+     margin-top: 10%;
+     font-size: 120%;
+     font-style: italic;
+     font-style: bold;
+ 
+ }
+ .footer ul{
+     display: flex;
+     
+ }
+ .footer a{
+     text-decoration: none;
+     color: black;
+ }
+ .footer1 li{
+     list-style: none;
+     margin-top: 5%;
+     text-align: center;
+ }
+ .footer2 li{
+     list-style: none;
+     margin-top: 3%;
+     text-align: center;
+ }
+ .footer3 li{
+     list-style: none;
+     margin-left: 90%;
+     font-size: 200%;
+     margin-top: -7%;
+     
+ }
+ .footer a:hover{
+     color: burlywood;
+ }
+ .footer1 a:hover{
+     color: burlywood;
+ }
+ .footer2 a:hover{
+     color: burlywood;
+ }
+ .footer3 li:hover{
+     color: burlywood;
+ }
+
+
+
+
+

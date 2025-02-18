@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(241, 233, 233);
+    background-size: cover;
+}
+.explor h1{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 250%;
+}
+.explor h1:hover{
+    text-decoration:underline;
+    opacity: 0.5;
+}
+.explor a{
+    text-decoration:none;
+    color: black;
+}
+
+.menu{
+    margin-top: 5%;
+    
+}
+.menu ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-right: 4%;
+}
+.menu a{
+    text-decoration: none;
+    border-radius: 5%;
+    background-color: lightcoral;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.menu a:hover{
+    opacity: 0.5;
+}
+
+h1{
+    font-size: 100%;
+}
+h2{
+    text-align: center;
+    font-size: 140%;
+}
+h3{
+    font-size: 100%;
+}
+h4{
+    font-size: 80%;
+}
+footer{
+    height: 50vh;
+     color: black;
+     background-color: bisque;
+ }
+ .footer li{
+     display: flex;
+     list-style: none;
+     margin-left: 5%;
+     margin-top: 10%;
+     font-size: 120%;
+     font-style: italic;
+     font-style: bold;
+ 
+ }
+ .footer ul{
+     display: flex;
+     
+ }
+ .footer a{
+     text-decoration: none;
+     color: black;
+ }
+ .footer1 li{
+     list-style: none;
+     margin-top: 5%;
+     text-align: center;
+ }
+ .footer2 li{
+     list-style: none;
+     margin-top: 3%;
+     text-align: center;
+ }
+ .footer3 li{
+     list-style: none;
+     margin-left: 90%;
+     font-size: 200%;
+     margin-top: -7%;
+     
+ }
+ .footer a:hover{
+     color: burlywood;
+ }
+ .footer1 a:hover{
+     color: burlywood;
+ }
+ .footer2 a:hover{
+     color: burlywood;
+ }
+ .footer3 li:hover{
+     color: burlywood;
+ }
